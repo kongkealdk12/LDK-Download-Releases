@@ -1,0 +1,8 @@
+{
+    "version":  "5.2.0",
+    "release_date":  "2026-06-11",
+    "notes":  "New LDK Downloader update.",
+    "download_url":  "https://private-server.example.com/ldk-downloader/LDK_Downloader_v5.2.0.exe?signed=REPLACE_ME",
+    "sha256":  "4888897c08f2939a640786ab11dd6188d3b7f4f8bcc6cbd57f0393a18817743b",
+    "file_name":  "LDK_Downloader_v5.2.0.exe"
+}
