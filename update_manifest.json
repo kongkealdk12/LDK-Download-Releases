@@ -1,8 +1,8 @@
 {
-    "version":  "5.2.0",
-    "release_date":  "2026-06-11",
-    "notes":  "New LDK Downloader update.",
-    "download_url":  "https://private-server.example.com/ldk-downloader/LDK_Downloader_v5.2.0.exe?signed=REPLACE_ME",
-    "sha256":  "4888897c08f2939a640786ab11dd6188d3b7f4f8bcc6cbd57f0393a18817743b",
-    "file_name":  "LDK_Downloader_v5.2.0.exe"
+    "version":  "5.3.0",
+    "release_date":  "2026-06-13",
+    "notes":  "LDK Downloader v5.3.0 update: source startup fix, cleaner UI text, downloader/library empty states, and clearer support messages while preserving the existing download workflow.",
+    "download_url":  "https://github.com/kongkealdk12/LDK-Download-Releases/releases/download/v5.3.0/LDK_Downloader_v5.3.0.exe",
+    "sha256":  "0267fc01e763f909b169d6d5953282b09069daa0ee3fb99dca04d924b67a9ca3",
+    "file_name":  "LDK_Downloader_v5.3.0.exe"
 }
